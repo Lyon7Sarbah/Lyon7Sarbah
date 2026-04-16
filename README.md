@@ -19,6 +19,12 @@ Web Developer and IT Support Specialist with a passion for creating impactful di
 
 ---
 
+## 📈 GitHub Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lyon7sarbah&bg_color=1c1917&color=ffffff&line=10b981&point=64748b&area=true&hide_border=true)](https://github.com/lyon7sarbah)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages & Tools
@@ -64,20 +70,20 @@ Web Developer and IT Support Specialist with a passion for creating impactful di
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lyon7sarbah&show_icons=true&count_private=true&title_color=64748b&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
-  <br/>
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyon7sarbah&stroke=ffffff&background=1c1917&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-  <br/>
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyon7sarbah&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </div>
 
 ---
 
-## 🏆 Badges
+## 📅 Weekly Development Breakdown
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyon7sarbah&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true)](http://www.github.com/lyon7sarbah)
-
----
-
-<div align="center">
-  <i>Let's build something amazing together! 🚀</i>
-</div>
+<!-- START_SECTION:waka -->
+```text
+TypeScript    ████████████████████░░░░   8 hrs 24 mins
+JavaScript    ██████████████░░░░░░░░░░   5 hrs 12 mins
+Python        ████████░░░░░░░░░░░░░░░░   3 hrs 45 mins
+HTML/CSS      ██████░░░░░░░░░░░░░░░░░░   2 hrs 30 mins
+JSON          ████░░░░░░░░░░░░░░░░░░░░   1 hr 45 mins
