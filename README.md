@@ -25,16 +25,6 @@ Web Developer and IT Support Specialist with a passion for creating impactful di
 
 ---
 
-## 🔥 Contribution Calendar (With Private Repos)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/10b981/lyon7sarbah?include_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/64748b/lyon7sarbah?include_private=true" />
-  <img src="https://ghchart.rshah.org/10b981/lyon7sarbah?include_private=true" alt="GitHub Contribution Calendar" />
-</picture>
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages & Tools
