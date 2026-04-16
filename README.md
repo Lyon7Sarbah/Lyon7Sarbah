@@ -19,9 +19,19 @@ Web Developer and IT Support Specialist with a passion for creating impactful di
 
 ---
 
-## 📈 GitHub Contribution Graph
+## 📈 GitHub Contribution Graph (Includes Private Repos)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lyon7sarbah&bg_color=1c1917&color=ffffff&line=10b981&point=64748b&area=true&hide_border=true)](https://github.com/lyon7sarbah)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lyon7sarbah&bg_color=1c1917&color=ffffff&line=10b981&point=64748b&area=true&hide_border=true&hide_title=false&include_all_commits=true&count_private=true)](https://github.com/lyon7sarbah)
+
+---
+
+## 🔥 Contribution Calendar (With Private Repos)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/10b981/lyon7sarbah?include_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/64748b/lyon7sarbah?include_private=true" />
+  <img src="https://ghchart.rshah.org/10b981/lyon7sarbah?include_private=true" alt="GitHub Contribution Calendar" />
+</picture>
 
 ---
 
@@ -66,14 +76,14 @@ Web Developer and IT Support Specialist with a passion for creating impactful di
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Includes Private Contributions)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lyon7sarbah&show_icons=true&count_private=true&title_color=64748b&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lyon7sarbah&show_icons=true&count_private=true&include_all_commits=true&title_color=64748b&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyon7sarbah&stroke=ffffff&background=1c1917&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyon7sarbah&stroke=ffffff&background=1c1917&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyon7sarbah&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyon7sarbah&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&count_private=true&include_all_commits=true" alt="Top Languages" />
 </div>
 
 ---
