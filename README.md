@@ -77,13 +77,3 @@ Web Developer and IT Support Specialist with a passion for creating impactful di
 </div>
 
 ---
-
-## 📅 Weekly Development Breakdown
-
-<!-- START_SECTION:waka -->
-```text
-TypeScript    ████████████████████░░░░   8 hrs 24 mins
-JavaScript    ██████████████░░░░░░░░░░   5 hrs 12 mins
-Python        ████████░░░░░░░░░░░░░░░░   3 hrs 45 mins
-HTML/CSS      ██████░░░░░░░░░░░░░░░░░░   2 hrs 30 mins
-JSON          ████░░░░░░░░░░░░░░░░░░░░   1 hr 45 mins
