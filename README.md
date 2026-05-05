@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/lyon7sarbah?style=social)](https://github.com/lyon7sarbah)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lyon7sarbah?style=social)](https://x.com/lyon7sarbah)
-[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/precious-sarbah)
+[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/precious-sarbah)
 
 ---
 
